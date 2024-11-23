@@ -33,7 +33,7 @@ const App = () => {
     <div>
       <h1>APP MOZOEXPRESS</h1>
 
-      {/* Menu */}
+      
       <ComboList
         handleAddCombo={handleAddCombo}
         handleAddMoreCombo={handleAddMoreCombo}

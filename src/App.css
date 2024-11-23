@@ -37,23 +37,22 @@
   }
 }
 
-/* Estilos generales */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f66e50; /* Fondo claro */
+  background-color: #f66e50;
   margin: 0;
   padding: 0;
 }
 
 h1 {
   color: #333; 
-  text-align: center;/* Color de texto oscuro */
+  text-align: center;
 }
 h2, h3, h4 {
-  color: #333; /* Color de texto oscuro */
+  color: #333; 
 }
 
-/* Sección de menú */
+
 .menu-section {
   background-color: #fff;
   padding: 20px;
@@ -75,12 +74,12 @@ h2, h3, h4 {
 
 .combo-item h3 {
   margin: 0;
-  flex: 1; /* Toma todo el espacio disponible */
+  flex: 1; 
 }
 
 .combo-item .button-group {
   display: flex;
-  gap: 10px; /* Espaciado entre botones */
+  gap: 10px;
 }
 
 
@@ -95,12 +94,12 @@ button {
   
 }
 
-/* Estilo para botones principales */
+
 button:hover {
   transform: scale(1.05);
   }
 
-/* Estilo de resumen */
+
 .section {
   background-color: #fff;
   padding: 20px;
@@ -117,7 +116,7 @@ input[type="text"] {
   width: 100%;
 }
 
-/* Estilo de pedidos confirmados */
+
 .orders-section {
   background-color: #f2f3f7;
   padding: 20px;
